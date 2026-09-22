@@ -45,6 +45,13 @@ Each folder below holds a copy of `index.html` whose redirect adds campaign tags
 | deliriumin30.com/nes | nes-elfh |
 | deliriumin30.com/standards | standards-bodies |
 | deliriumin30.com/poster | qr-poster |
+| deliriumin30.com/boards | health-boards |
+| deliriumin30.com/colleges | professional-bodies |
+| deliriumin30.com/universities | universities |
+| deliriumin30.com/europe | europe |
+| deliriumin30.com/na | north-america |
+| deliriumin30.com/anz | australia-nz |
+| deliriumin30.com/intl | international |
 
 To add a channel, copy any channel folder, rename it, and change `utm_source` in the refresh line and the fallback link.
 
